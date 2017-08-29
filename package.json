@@ -1,0 +1,28 @@
+{
+  "name": "observe-tree",
+  "version": "0.0.1",
+  "description": "Deep object tree observation with cycle prevention",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalply/observe-tree.git"
+  },
+  "keywords": [
+    "observer",
+    "object tree",
+    "cycle detection",
+    "plain object"
+  ],
+  "author": "Daniel Ly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nalply/observe-tree/issues"
+  },
+  "homepage": "https://github.com/nalply/observe-tree#readme",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
